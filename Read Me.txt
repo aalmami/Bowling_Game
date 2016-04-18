@@ -1,0 +1,9 @@
+
+
+This is the Bowling Game Kata project that I was assign to.
+
+To test it, please download all the files into the same directory and than open the HTML file.
+
+I used JavaScript to program this project. Also I used the latest release of QUnit framework  v1.23.1 in my program (there are two .js files for the library).
+
+There are total of 9 tests examples provided, and of them work.
